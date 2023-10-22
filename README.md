@@ -4,6 +4,9 @@ This project is a Pokedex guide search engine created using HTML, CSS, and JavaS
 
 # Demo
 
+![Pokedex](https://github.com/UmitAygunn/Pokedex/assets/140657845/43bbea4d-0537-4b57-a125-d7829cb9a250)
+
+
 Live Demo - Explore the live demo of the Pokedex guide search engine to search and discover information about various Pokemon.
 1) https://6533ae124e799311c979495c--clever-marzipan-13443c.netlify.app/
 
